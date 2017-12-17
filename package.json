@@ -1,0 +1,22 @@
+{
+  "name": "xerr",
+  "version": "1.0.0",
+  "description": "A beter Error",
+  "main": "xerr.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ps/xerr.git"
+  },
+  "keywords": [
+    "error"
+  ],
+  "author": "purplestone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ps/xerr/issues"
+  },
+  "homepage": "https://github.com/ps/xerr#readme"
+}
