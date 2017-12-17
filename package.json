@@ -1,14 +1,14 @@
 {
   "name": "xerr",
   "version": "1.0.0",
-  "description": "A beter Error",
+  "description": "A better Error constructor can push errors into stack.",
   "main": "xerr.js",
   "scripts": {
     "test": "node test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ps/xerr.git"
+    "url": "git+https://github.com/purplestone/xerr.git"
   },
   "keywords": [
     "error"
@@ -16,7 +16,7 @@
   "author": "purplestone",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ps/xerr/issues"
+    "url": "https://github.com/purplestone/xerr/issues"
   },
-  "homepage": "https://github.com/ps/xerr#readme"
+  "homepage": "https://github.com/purplestone/xerr#readme"
 }

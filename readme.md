@@ -17,7 +17,7 @@ try {
 	// JS native Error constructor show message only 'call bad'
 }
 
-Error = require('./xerr');
+Error = require('xerr');
 console.log('\n=== After use xerr ===\n');
 
 try {
@@ -36,7 +36,7 @@ try {
 
 ```javascript
 
-Error = require('./xerr');
+Error = require('xerr');
 
 try {
 	
