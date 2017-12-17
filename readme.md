@@ -78,6 +78,8 @@ try {
 
 ``err[key]`` // Keys from objectOpt
 
+``throw err``
+
 ``Xerr.__ERROR__`` // JS native Error constructor
 
 ``NativeError.__XERR__`` // Xerr constructor

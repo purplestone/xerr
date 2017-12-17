@@ -1,8 +1,14 @@
+/**
+  * license ISC
+  * https://github.com/purplestone/xerr
+  * sample: 
+      throw xerr(stringMessage[, objectError, objectOpt])
+*/
 (function (xerr) {
 	if('object'==typeof exports && 'undefined'!=typeof module)
-	  module.exports = xerr;
+		module.exports = xerr;
 	else if('function'==typeof define&&define.amd)
-	  define([],xerr);
+		define([],xerr);
 	else if ('undefined'!=typeof window) {
 		window.xerr = xerr;
 	}else if ('undefined'!=typeof global) {

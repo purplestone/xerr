@@ -11,7 +11,10 @@
     "url": "git+https://github.com/purplestone/xerr.git"
   },
   "keywords": [
-    "error"
+    "error",
+    "stack",
+    "catch",
+    "throw"
   ],
   "author": "purplestone",
   "license": "ISC",
